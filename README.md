@@ -7,4 +7,4 @@
 ![](game.png)
 
 
-For more info [Click Here](info)
+For more info [Click Here](info.md)
